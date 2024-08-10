@@ -86,3 +86,8 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 WashingtonDDS/WashingtonDDS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/washingtondds/washingtondds/output/snake.svg" alt="Snake animation" />
+
+###
