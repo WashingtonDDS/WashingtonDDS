@@ -8,9 +8,6 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2)  | Outro ] @ [ [Cubos Academy](https://cubos.academy/) | 
-
-👩‍💻 Atualmente eu trabalho como [Vendedor] 
 
 ✒️ Eu gosto de no meu tempo livre [Gosto de ler mangas,pesquisas sobre tecnologia e gosto muito de astronomia];
 
