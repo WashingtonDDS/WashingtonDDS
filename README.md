@@ -8,7 +8,7 @@
 
 🎯 Atualmente atuo como **Desenvolvedor Freelancer** e estou em busca de uma oportunidade para consolidar minha transição para a área de tecnologia, onde posso aplicar meus conhecimentos e continuar aprendendo.
 
-📚 Estou cursando **Bacharelado em Engenharia de Software** na Estácio (previsão de conclusão: 2029) e participando do **Bootcamp Código de Base** da Educ360° com especialização em back-end Java.
+📚 Estou cursando **Bacharelado em Engenharia de Software** na Estácio e participando do **Bootcamp Código de Base** da Educ360° com especialização em back-end Java.
 
 🌌 No meu tempo livre, gosto de ler mangás, pesquisar sobre tecnologia e explorar o fascinante mundo da astronomia.
 
